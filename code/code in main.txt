@@ -1,2 +1,3 @@
-1 first commit in clean code
+1 first commit in clean code!
 2 second commit in clean code
+3 third commit in clean code
